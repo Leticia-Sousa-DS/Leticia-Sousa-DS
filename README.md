@@ -1,12 +1,13 @@
-### Hi there 👋
+### Olá, mundo! 👋
 
-<!--
-**Leticia-Sousa-DS/Leticia-Sousa-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Estou cursando o 5° semestre de Ciências da Computação.
+- 🌱 Neste semestre, estou aprendendo Python e Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticia-sousa-ds&count_private=true&show_icons=true&theme=radical)
+<!----[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-sousa-ds)--->
+
+<!----
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

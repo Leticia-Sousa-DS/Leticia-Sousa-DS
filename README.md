@@ -1,7 +1,7 @@
 ### Olá, mundo! 👋
 
 
-- 🔭 Estou cursando o 7° semestre de Ciência da Computação.
+- 🔭 Estou cursando o 8° semestre de Ciência da Computação.
 - 🌱 Neste semestre, estou aprendendo Python e Java.
 
 ##

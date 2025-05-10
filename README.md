@@ -1,8 +1,8 @@
 ### Olá, mundo! 👋
 
 
-- 🔭 Estou cursando o 8° semestre de Ciência da Computação.
-- 🌱 Neste semestre, estou aprendendo Python e Java.
+- 🔭 Bacharel em Ciência da Computação.
+  
 
 ##
 

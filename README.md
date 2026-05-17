@@ -8,7 +8,7 @@
 
 <div> 
   <a href="https://github.com/leticia-sousa-ds">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-sousa-ds&count_private=true&layout=compact&theme=transparent" />
+    <img align="center" height="180em" src="https://github-readme-stats-steel-phi-12.vercel.app/api/top-langs/?username=leticia-sousa-ds&count_private=true&layout=compact&theme=transparent" />
   </a>
 </div>
 
